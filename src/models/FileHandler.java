@@ -4,7 +4,7 @@
  * Author: Baráth Dávid
  * Github: https://github.com/david587
  * Copyright (c) 2020-2022 Baráth Dávid
- *  
+ * 
  * GNU GPL v2
  */
 
