@@ -1,9 +1,9 @@
 /*
  * File: App.java
- * Created Date: 2020-09-15
- * Author: Nagy János
- * Github: https://github.com/andteki
- * Copyright (c) 2020-2022 Nagy János
+ * Created Date: 2022-11-28
+ * Author: Baráth Dávid
+ * Github: https://github.com/david587
+ * Copyright (c) 2020-2022 Baráth Dávid
  * 
  * GNU GPL v2
  */
