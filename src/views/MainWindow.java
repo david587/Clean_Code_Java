@@ -1,5 +1,5 @@
 /*
- * File: Main.java
+ * File: MainWindow.java
  * Created Date: 2022-11-28
  * Author: Baráth Dávid
  * Github: https://github.com/david587
